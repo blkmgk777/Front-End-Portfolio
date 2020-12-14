@@ -1,6 +1,6 @@
 ## Welcome to Magik's Page
 
-[Hello this is Jonathan's Portfolio](https://blkmgk777.github.io)
+[Hello this is Jonathan's Portfolio](https://blkmgk777.github.io/Front-End-Portfolio/)
 You can use the [editor on GitHub](https://github.com/blkmgk777/Front-End-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
